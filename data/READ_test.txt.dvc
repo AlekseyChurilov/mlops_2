@@ -1,0 +1,5 @@
+outs:
+- md5: e0cb7afa122a65f257f04931104db746
+  size: 18
+  hash: md5
+  path: READ_test.txt
